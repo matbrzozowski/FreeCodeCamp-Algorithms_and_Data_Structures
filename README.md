@@ -1,4 +1,4 @@
-# FreeCodeCamp - Algorithms and Data Structures
+# FreeCodeCamp - JavaScript Algorithms and Data Structures
 
 This respository consists my personal solutions to the JavaScript Algorithms and Data Structures Certification projects.
 
